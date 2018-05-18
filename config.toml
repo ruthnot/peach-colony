@@ -1,0 +1,4 @@
+baseURL = "https://ruthnot.github.io"
+languageCode = "en-us"
+title = "Peach Colony"
+theme = "hugo-theme-learn"
