@@ -137,3 +137,34 @@ variables in the class.  Notice, we don't have age in the arguments, it may or m
 
 
 #### **Scope in Classes**
+The way that we declare our objects is important for determining how we call the member functions or access the public member variables.
+
+```
+Person *pOne = new Person();
+Person p;
+Person &Ref = p;
+
+pOne->SayHello();
+p.SayHello();
+pRef.SayHello();
+```
+
+* Like the example shown above, if we dynamically allocate memory for a new Person object, we use the **arrow member selection operator ->**
+to gain access.
+* In contrast, if we create a new Person object without using a pointer or the new keyword, we use a **dot operator** to access
+the member function. Notice, the reference is the same
+* Finally, if the member function is a static function , we would use **Person::SayHello()** without instantiate an object of the Person class
+
+----
+
+The definition of **encapsulation** in C++ has two layers:
+
+* First is "Inclusion", meaning user can take all of member functions and member variables and enclose it within a class
+* Second is "Data Restriction", meaning the outside user cannot direclty change the data of the class, only through constructors or
+member functions. This helps the class to reject invalid input
+
+----
+
+A **namespace** is a "scope container" where you can place your classes, variables, or other identifiers to prevent name conflicts. For ecample,
+"std" is a namespace when you use "std::cout" Again, the "::" symbol is called **scope resolution operator** that allows user
+gain access to certain function in certain namespace

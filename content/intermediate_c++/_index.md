@@ -22,5 +22,4 @@ This is a online course from edX.com by Microsoft.
     * Steam I/O
     * Processing Files
     * Strings
-    
 
