@@ -1,5 +1,5 @@
 +++
-title =  "Module Two: More C++ Class"
+title =  "Module 2: More C++ Class"
 +++
 #### **Splitting Classes**
 * In C++, the common practice is to create your classes as two separate files. The header files, with a

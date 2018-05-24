@@ -1,5 +1,5 @@
 +++
-title =  "Module One: Pointers"
+title =  "Module 1: Pointers"
 +++
 #### **Pointers**
 

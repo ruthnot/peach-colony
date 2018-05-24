@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d94034a-f775-4754-9f14-f9089b2b14d7" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/intermediate_c++/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/intermediate_c++/_index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/intermediate_c++/module_1_pointers.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/intermediate_c++/module_1_pointers.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/intermediate_c++/module_2_more_c++_class.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/intermediate_c++/module_2_more_c++_class.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,17 +19,44 @@
       <file leaf-file-name="_index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/intermediate_c++/_index.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            <state relative-caret-position="100">
+              <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="module_2_more_c++_class.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="chapter_2_getting_started.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/content/shell_scripting/chapter_2_getting_started.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/shell_scripting/_index.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_index.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/_index.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="73" selection-start-line="29" selection-start-column="73" selection-end-line="29" selection-end-column="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module_2_more_c++_class.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/intermediate_c++/module_2_more_c++_class.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1149">
-              <caret line="168" column="98" selection-start-line="168" selection-start-column="98" selection-end-line="168" selection-end-column="98" />
+            <state relative-caret-position="22">
+              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -35,8 +64,17 @@
       <file leaf-file-name="module_1_pointers.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/intermediate_c++/module_1_pointers.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="11" column="77" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
+            <state relative-caret-position="19">
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="module_3_more_oop_in_c++.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/content/intermediate_c++/module_3_more_oop_in_c++.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="18">
+              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -62,10 +100,13 @@
       <list>
         <option value="$PROJECT_DIR$/content/_index.md" />
         <option value="$PROJECT_DIR$/content/Intermediate C++/_index.md" />
-        <option value="$PROJECT_DIR$/content/intermediate_c++/module_1_pointers.md" />
         <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/content/intermediate_c++/_index.md" />
         <option value="$PROJECT_DIR$/content/intermediate_c++/module_2_more_c++_class.md" />
+        <option value="$PROJECT_DIR$/content/intermediate_c++/module_1_pointers.md" />
+        <option value="$PROJECT_DIR$/content/intermediate_c++/module_3_more_oop_in_c++.md" />
+        <option value="$PROJECT_DIR$/content/shell_scripting/_index.md" />
+        <option value="$PROJECT_DIR$/content/intermediate_c++/_index.md" />
+        <option value="$PROJECT_DIR$/content/shell_scripting/chapter_2_getting_started.md" />
       </list>
     </option>
   </component>
@@ -108,6 +149,12 @@
               <item name="content" type="462c0819:PsiDirectoryNode" />
               <item name="intermediate_c++" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="peach-colony" type="b2602c69:ProjectViewProjectNode" />
+              <item name="peach-colony" type="462c0819:PsiDirectoryNode" />
+              <item name="content" type="462c0819:PsiDirectoryNode" />
+              <item name="shell_scripting" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -122,6 +169,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/shell_scripting" />
       <recent name="$PROJECT_DIR$/content/intermediate_c++" />
     </key>
   </component>
@@ -161,7 +209,7 @@
       <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info anchor="bottom" id="Run" order="3" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2186019" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2186019" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
@@ -189,29 +237,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Python Console" order="8" />
     </layout>
-    <layout-to-restore>
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20714286" />
-      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="4" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="3" />
-      <window_info anchor="bottom" id="Python Console" order="9" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -372,31 +397,52 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html" />
-    <entry file="file://$PROJECT_DIR$/content/_index.md">
+    <entry file="file://$PROJECT_DIR$/content/intermediate_c++/module_2_more_c++_class.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="73" selection-start-line="29" selection-start-column="73" selection-end-line="29" selection-end-column="73" />
+        <state relative-caret-position="22">
+          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/intermediate_c++/module_1_pointers.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="11" column="77" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
+        <state relative-caret-position="19">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/intermediate_c++/module_3_more_oop_in_c++.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/_index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="73" selection-start-line="29" selection-start-column="73" selection-end-line="29" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/content/shell_scripting/_index.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/content/intermediate_c++/_index.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        <state relative-caret-position="100">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/content/intermediate_c++/module_2_more_c++_class.md">
+    <entry file="file://$PROJECT_DIR$/content/shell_scripting/chapter_2_getting_started.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1149">
-          <caret line="168" column="98" selection-start-line="168" selection-start-column="98" selection-end-line="168" selection-end-column="98" />
+        <state relative-caret-position="154">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
