@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/content/intermediate_c++/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/intermediate_c++/_index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/intermediate_c++/module_1_pointers.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/intermediate_c++/module_1_pointers.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/intermediate_c++/module_2_more_c++_class.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/intermediate_c++/module_2_more_c++_class.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/shell_scripting/chapter_2_getting_started.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/shell_scripting/chapter_2_getting_started.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,8 +29,8 @@
       <file leaf-file-name="chapter_2_getting_started.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/shell_scripting/chapter_2_getting_started.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="1716">
+              <caret line="78" column="108" selection-start-line="78" selection-start-column="108" selection-end-line="78" selection-end-column="108" />
             </state>
           </provider>
         </entry>
@@ -209,7 +210,7 @@
       <window_info anchor="bottom" id="Python Console" order="9" />
       <window_info anchor="bottom" id="Run" order="3" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2186019" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2186019" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
@@ -441,8 +442,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/shell_scripting/chapter_2_getting_started.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="1716">
+          <caret line="78" column="108" selection-start-line="78" selection-start-column="108" selection-end-line="78" selection-end-column="108" />
         </state>
       </provider>
     </entry>
