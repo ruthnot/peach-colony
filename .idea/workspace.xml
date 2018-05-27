@@ -29,8 +29,8 @@
       <file leaf-file-name="chapter_2_getting_started.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/content/shell_scripting/chapter_2_getting_started.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1716">
-              <caret line="78" column="108" selection-start-line="78" selection-start-column="108" selection-end-line="78" selection-end-column="108" />
+            <state relative-caret-position="528">
+              <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -123,7 +123,7 @@
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="x" value="1752" />
     <option name="y" value="24" />
-    <option name="width" value="1688" />
+    <option name="width" value="1686" />
     <option name="height" value="1416" />
   </component>
   <component name="ProjectView">
@@ -200,8 +200,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1752" y="24" width="1688" height="1416" extended-state="4" />
-    <editor active="true" />
+    <frame x="65" y="-4" width="3375" height="1444" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3295107" />
@@ -442,8 +441,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/content/shell_scripting/chapter_2_getting_started.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1716">
-          <caret line="78" column="108" selection-start-line="78" selection-start-column="108" selection-end-line="78" selection-end-column="108" />
+        <state relative-caret-position="528">
+          <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
         </state>
       </provider>
     </entry>
